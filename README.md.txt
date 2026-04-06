@@ -1,5 +1,17 @@
-Processo de desenvolvimento do teste Rockin' Shop:
+# Rockin' Shop - Email Marketing
+Este projeto consiste no desenvolvimento de um e-mail marketing responsivo utilizando HTML e CSS, seguindo boas práticas de compatibilidade entre diferentes clientes de e-mail.
 
+## Tecnologias utilizadas
+- HTML
+- CSS (inline)
+
+## Compatibilidade
+Desenvolvido com foco em compatibilidade com clientes como Gmail e Outlook.
+
+## Observações
+Foram aplicadas técnicas específicas para e-mail marketing, como uso de tables e CSS inline.
+
+## Processo de Desenvolvimento
 Por ser a minha primeira experiência desenvolvendo um e-mail marketing com HTML e CSS, iniciei o processo com pesquisas sobre as melhores práticas específicas para esse tipo de implementação, entendendo que o desenvolvimento para e-mail possui características diferentes do desenvolvimento web tradicional.
 
 Durante esse estudo, identifiquei alguns pontos essenciais:
