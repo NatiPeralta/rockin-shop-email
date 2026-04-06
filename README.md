@@ -16,7 +16,7 @@ Por ser a minha primeira experiência desenvolvendo um e-mail marketing com HTML
 
 Durante esse estudo, identifiquei alguns pontos essenciais:
 
-- Utilização de estruturas '<table>' para construção do layout, garantindo maior compatibilidade entre diferentes clientes de e-mail;
+- Utilização de estruturas `<table>` para construção do layout, garantindo maior compatibilidade entre diferentes clientes de e-mail;
 
 - Uso de CSS inline, prática recomendada para melhor renderização em provedores como Gmail e Outlook;
 
@@ -38,11 +38,11 @@ Durante a implementação, enfrentei alguns desafios específicos:
 
 - Alinhamento na seção "New Arrivals":
 
-Inicialmente tive dificuldade para posicionar o preço e o botão lado a lado. A solução foi estruturar ambos dentro de uma '<table>' com '<td>' separados, garantindo alinhamento consistente entre os elementos.
+Inicialmente tive dificuldade para posicionar o preço e o botão lado a lado. A solução foi estruturar ambos dentro de uma `<table>` com `<td>` separados, garantindo alinhamento consistente entre os elementos.
 
 - Construção do banner com botões:
 
-Minha primeira abordagem foi utilizar 'background-image' com botões sobrepostos. No entanto, ao pesquisar mais profundamente, identifiquei limitações dessa técnica em clientes de e-mail.
+Minha primeira abordagem foi utilizar `background-image` com botões sobrepostos. No entanto, ao pesquisar mais profundamente, identifiquei limitações dessa técnica em clientes de e-mail.
 
 Diante disso, considerei duas alternativas:
 
@@ -53,7 +53,7 @@ Optei pela segunda abordagem, por ser a mais simples e amplamente compatível. P
 
 - Construção das linhas decorativas no rodapé:
 
-Para replicar o layout proposto, utilizei uma combinação de '<td>' com altura mínima e 'border-top' em tabelas subsequentes, garantindo fidelidade visual ao design original.
+Para replicar o layout proposto, utilizei uma combinação de `<td>` com altura mínima e `border-top` em tabelas subsequentes, garantindo fidelidade visual ao design original.
 
 De forma geral, considerei o desenvolvimento mais fluido do que o esperado. O desafio foi bastante enriquecedor, proporcionando aprendizado prático sobre boas práticas em e-mail marketing, além de reforçar a importância de adaptação técnica conforme o contexto da aplicação.
 
