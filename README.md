@@ -16,7 +16,7 @@ Por ser a minha primeira experiência desenvolvendo um e-mail marketing com HTML
 
 Durante esse estudo, identifiquei alguns pontos essenciais:
 
-- Utilização de estruturas <table> para construção do layout, garantindo maior compatibilidade entre diferentes clientes de e-mail;
+- Utilização de estruturas '<table>' para construção do layout, garantindo maior compatibilidade entre diferentes clientes de e-mail;
 
 - Uso de CSS inline, prática recomendada para melhor renderização em provedores como Gmail e Outlook;
 
